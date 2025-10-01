@@ -39,7 +39,7 @@ $banner = 'https://i.imgur.com/DNNdByp.png';
         <!-- Title Section -->
         <div class="title-wrap">
             <div class="top-meta">
-                <div class="badge">70</div>
+                <div class="badge">90</div>
                 <div class="years">Years of excellence</div>
             </div>
             <div style="flex:1">
